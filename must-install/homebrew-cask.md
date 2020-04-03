@@ -6,7 +6,7 @@ http://mirrors.ustc.edu.cn/help/homebrew-cask.git.html
 
 ## 升级所有 Cask 软件包
 
-```shell
+```bash
 brew cask upgrade --greedy
 ```
 
@@ -14,11 +14,11 @@ brew cask upgrade --greedy
 
 JDK，Oracle 吔💩
 
-```shell
+```bash
 brew tap AdoptOpenJDK/openjdk
 ```
 
-```shell
+```bash
 brew cask install adoptopenjdk11-openj9
 ```
 
@@ -26,7 +26,7 @@ brew cask install adoptopenjdk11-openj9
 
 Git GUI 工具
 
-```shell
+```bash
 brew cask install fork
 ```
 
@@ -34,11 +34,11 @@ brew cask install fork
 
 终端唯一指定字体
 
-```shell
+```bash
 brew tap homebrew/cask-fonts
 ```
 
-```shell
+```bash
 brew cask install font-hack-nerd-font
 ```
 
@@ -46,7 +46,7 @@ brew cask install font-hack-nerd-font
 
 播放器
 
-```shell
+```bash
 brew cask install iina
 ```
 
@@ -54,7 +54,7 @@ brew cask install iina
 
 替代掉系统自带的 Terminal
 
-```shell
+```bash
 brew cask install iterm
 ```
 
@@ -68,7 +68,7 @@ brew cask install iterm
 
 GAWAE-FCWQ3-P8NYB-C7GF7-NEDRT-Q5DTB-MFZG6-6NEQC-CRMUD-8MZ2K-66SRB-SU8EW-EDLZ9-TGH3S-8SGA
 
-```shell
+```bash
 brew cask install istat-menus
 ```
 
@@ -76,7 +76,7 @@ brew cask install istat-menus
 
 有这个工具 iState 才能监控 CPU 频率
 
-```shell
+```bash
 brew cask install intel-power-gadget
 ```
 
@@ -84,7 +84,7 @@ brew cask install intel-power-gadget
 
 录屏工具
 
-```shell
+```bash
 brew cask install kap
 ```
 
@@ -92,7 +92,7 @@ brew cask install kap
 
 解压工具
 
-```shell
+```bash
 brew cask install keka
 ```
 
@@ -100,7 +100,7 @@ brew cask install keka
 
 Markdown 编辑器，Typora 终结者
 
-```shell
+```bash
 brew cask install mark-text
 ```
 
@@ -108,7 +108,7 @@ brew cask install mark-text
 
 下载工具，支持磁力
 
-```shell
+```bash
 brew cask install motrix
 ```
 
@@ -116,7 +116,7 @@ brew cask install motrix
 
 NTFS 读写工具
 
-```shell
+```bash
 brew cask install mounty
 ```
 
@@ -124,7 +124,7 @@ brew cask install mounty
 
 鼠标行为调教工具
 
-```shell
+```bash
 brew cask install mos
 ```
 
@@ -132,7 +132,7 @@ brew cask install mos
 
 笔记软件
 
-```shell
+```bash
 brew cask install notion
 ```
 
@@ -140,7 +140,7 @@ brew cask install notion
 
 震惊：中国某九线城市网络聊天主播小学文凭月入百万
 
-```shell
+```bash
 brew cask install obs
 ```
 
@@ -148,7 +148,7 @@ brew cask install obs
 
 API 调试工具
 
-```shell
+```bash
 brew cask install postman
 ```
 
@@ -156,7 +156,7 @@ brew cask install postman
 
 Redis GUI 工具
 
-```shell
+```bash
 brew cask install another-redis-desktop-manager
 ```
 
@@ -164,7 +164,7 @@ brew cask install another-redis-desktop-manager
 
 图床工具
 
-```shell
+```bash
 brew cask install upic
 ```
 
@@ -172,7 +172,7 @@ brew cask install upic
 
 抓包工具
 
-```shell
+```bash
 brew cask install wireshark
 ```
 
@@ -180,7 +180,7 @@ brew cask install wireshark
 
 lsof GUI 工具
 
-```shell
+```bash
 brew cask install sloth
 ```
 
@@ -188,7 +188,7 @@ brew cask install sloth
 
 qBittorrent 增强版，自动 Ban 吸血 IP
 
-```shell
+```bash
 brew cask install c0re100-qbittorrent
 ```
 
@@ -196,7 +196,7 @@ brew cask install c0re100-qbittorrent
 
 Apple Store 版进不了某些群
 
-```shell
+```bash
 brew cask install telegram-desktop
 ```
 
@@ -204,7 +204,7 @@ brew cask install telegram-desktop
 
 开发工具
 
-```shell
+```bash
 brew cask install visual-studio-code
 ```
 
@@ -214,7 +214,7 @@ brew cask install visual-studio-code
 
 XKZYV-PK9CC-A1Y0X-K5HZL-Y65ZV
 
-```shell
+```bash
 brew cask install vmware-fusion
 ```
 
@@ -226,7 +226,7 @@ https://zhile.io
 
 48891cf209c6d32bf4
 
-```shell
+```bash
 brew cask install charles
 ```
 
@@ -234,7 +234,7 @@ brew cask install charles
 
 开发工具
 
-```shell
+```bash
 brew cask install docker
 ```
 
@@ -244,7 +244,7 @@ brew cask install docker
 
 https://www.mozilla.org/en-US/firefox/developer
 
-```shell
+```bash
 brew cask install homebrew/cask-versions/firefox-developer-edition
 ```
 
@@ -252,13 +252,13 @@ brew cask install homebrew/cask-versions/firefox-developer-edition
 
 Chrome 开发版
 
-```shell
+```bash
 brew cask install homebrew/cask-versions/google-chrome-dev
 ```
 
 ### 开启标签分组
 
-```shell
+```bash
 chrome://flags/#tab-groups
 ```
 
@@ -266,7 +266,7 @@ chrome://flags/#tab-groups
 
 开发工具
 
-```shell
+```bash
 brew cask install hbuilderx
 ```
 
@@ -276,7 +276,7 @@ JetBrains 全家桶
 
 https://zhile.io/2018/08/25/jetbrains-license-server-crack.html
 
-```shell
+```bash
 brew cask install jetbrains-toolbox
 ```
 
@@ -284,7 +284,7 @@ brew cask install jetbrains-toolbox
 
 粘贴板增强
 
-```shell
+```bash
 brew cask install clipy
 ```
 
@@ -292,7 +292,7 @@ brew cask install clipy
 
 PPT 制作工具
 
-```shell
+```bash
 brew cask install islide
 ```
 
@@ -300,16 +300,16 @@ brew cask install islide
 
 _______，_______。
 
-```shell
+```bash
 brew tap v2ray/v2ray
 ```
 
-```shell
+```bash
 brew install v2ray-core
 ```
 
 ### GUI
 
-```shell
+```bash
 brew cask install v2rayu
 ```

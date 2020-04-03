@@ -6,7 +6,7 @@
 
 https://brew.sh
 
-```shell
+```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
 
@@ -24,7 +24,7 @@ http://mirrors.ustc.edu.cn/help/homebrew-bottles.html
 
 ## 常用命令行工具
 
-```shell
+```bash
 brew install maven gradle aria2 ncdu neofetch nmap node python sqlite tcpdump telnet tree wget
 ```
 
@@ -32,13 +32,13 @@ brew install maven gradle aria2 ncdu neofetch nmap node python sqlite tcpdump te
 
 ### 升级 pip 到最新版
 
-```shell
+```bash
 pip3 install --upgrade pip -i https://pypi.douban.com/simple
 ```
 
 ### 设置镜像
 
-```shell
+```bash
 pip3 config set global.index-url https://pypi.douban.com/simple
 ```
 
@@ -46,7 +46,7 @@ pip3 config set global.index-url https://pypi.douban.com/simple
 
 Android 逆向工具，装完之后没有图标，只能在命令行运行
 
-```shell
+```bash
 brew install jadx
 ```
 
@@ -54,6 +54,6 @@ brew install jadx
 
 压力测试工具，装完之后没有图标，只能在命令行运行
 
-```shell
+```bash
 brew install jmeter
 ```
