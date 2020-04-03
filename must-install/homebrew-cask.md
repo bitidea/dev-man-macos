@@ -296,9 +296,9 @@ PPT 制作工具
 brew cask install islide
 ```
 
-## v2ray
+## V2ray
 
-_______，_______。
+`_______，_______。`
 
 ```bash
 brew tap v2ray/v2ray
@@ -312,4 +312,12 @@ brew install v2ray-core
 
 ```bash
 brew cask install v2rayu
+```
+
+## balenaEtcher
+
+镜像烧录工具
+
+```bash
+brew cask install balenaetcher
 ```
