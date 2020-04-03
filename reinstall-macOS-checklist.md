@@ -1,6 +1,6 @@
 # 重装 macOS 前的检查清单
 
-[https://support.apple.com/zh-cn/guide/mac-help/mchlp1599/mac](https://support.apple.com/zh-cn/guide/mac-help/mchlp1599/mac)
+https://support.apple.com/zh-cn/guide/mac-help/mchlp1599/mac
 
 * [ ] VPN !!! VPN !!! VPN !!! 重要的事情说三遍，确认要重装系统前请先保证你的梯子是稳定的
 * [ ] 备份 `~/.ssh`

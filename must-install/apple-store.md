@@ -1,6 +1,6 @@
 # Apple Store
 
-**注意⚠️：必须是美区 Apple Store**
+**⚠️注意：必须是美区 Apple Store**
 
 ## Amphetamine
 

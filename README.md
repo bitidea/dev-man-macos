@@ -6,7 +6,7 @@
 
 ## 目录
 
-* [必装软件](must-install/must-install.md)
+* 必装软件
   * [Apple Store](must-install/apple-store.md)
   * [DMG Application](must-install/dmg-application.md)
   * [Homebrew](must-install/homebrew.md)
