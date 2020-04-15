@@ -321,3 +321,11 @@ brew cask install v2rayu
 ```bash
 brew cask install balenaetcher
 ```
+
+## jd-gui
+
+查看 Jar 源码工具
+
+```bash
+brew cask install jd-gui
+```
