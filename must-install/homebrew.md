@@ -57,3 +57,11 @@ brew install jadx
 ```bash
 brew install jmeter
 ```
+
+## ffmpeg
+
+基本使用：http://www.ruanyifeng.com/blog/2020/01/ffmpeg.html
+
+```bash
+brew install ffmpeg
+```
