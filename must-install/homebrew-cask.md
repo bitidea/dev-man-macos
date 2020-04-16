@@ -324,7 +324,7 @@ brew cask install balenaetcher
 
 ## jd-gui
 
-查看 Jar 源码工具
+逆向工具，反编译 Jar
 
 ```bash
 brew cask install jd-gui
