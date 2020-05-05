@@ -96,6 +96,14 @@ brew cask install kap
 brew cask install keka
 ```
 
+## eZip
+
+Keka 不能编辑压缩文件，eZip 可以
+
+```bash
+brew cask install ezip
+```
+
 ## Mark Text
 
 Markdown 编辑器，Typora 终结者
