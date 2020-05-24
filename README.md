@@ -12,6 +12,7 @@
   * [Homebrew](must-install/homebrew.md)
   * [Homebrew Cask](must-install/homebrew-cask.md)
 * [iTerm2 配置](iterm2-config.md)
+* [Chrome DoH](chrome-doh.md)
 * [删除所有 .DS_Store 文件](remove-all-DS_Store.md)
 * [重装 macOS 前的检查清单](reinstall-macOS-checklist.md)
 * [WebStorm 风格指南](webstorm-style-guide.md)
