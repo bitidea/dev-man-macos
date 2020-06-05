@@ -25,7 +25,23 @@ http://mirrors.ustc.edu.cn/help/homebrew-bottles.html
 ## 常用命令行工具
 
 ```bash
-brew install maven gradle aria2 ncdu neofetch nmap node python sqlite tcpdump telnet tree wget watch
+brew install \
+  aria2 \
+  gradle \
+  maven \
+  ncdu \
+  netcat \
+  neofetch \
+  nmap \
+  node \
+  python \
+  sqlite \
+  tcpdump \
+  telnet \
+  tldr \
+  tree \
+  watch \
+  wget
 ```
 
 ## Python 镜像
