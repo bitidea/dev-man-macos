@@ -10,18 +10,6 @@ http://mirrors.ustc.edu.cn/help/homebrew-cask.git.html
 brew cask upgrade --greedy
 ```
 
-## Adoptopen JDK 11 OpenJ9
-
-JDK，Oracle 吔💩
-
-```bash
-brew tap AdoptOpenJDK/openjdk
-```
-
-```bash
-brew cask install adoptopenjdk11-openj9
-```
-
 ## Fork
 
 Git GUI 工具

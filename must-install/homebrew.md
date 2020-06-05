@@ -44,6 +44,30 @@ brew install \
   wget
 ```
 
+## openjdk@11
+
+```bash
+brew install openjdk@11
+```
+
+### 配置环境变量
+
+```bash
+echo 'export PATH="/usr/local/opt/openjdk@11/bin:$PATH"' >> ~/.zshrc
+```
+
+```bash
+echo 'export CPPFLAGS="-I/usr/local/opt/openjdk@11/include"' >> ~/.zshrc
+```
+
+### 配置 IDEA JDK
+
+1. 打开 IDEA JDK 配置窗口
+
+2. 使用组合键 `shift` + `command` + `.` 显示隐藏文件夹
+
+3. 选到 `/usr/local/opt/openjdk@11/libexec/openjdk.jdk`
+
 ## Python 镜像
 
 ### 升级 pip 到最新版
