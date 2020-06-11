@@ -204,6 +204,12 @@ brew cask install telegram-desktop
 brew cask install visual-studio-code
 ```
 
+### VS Code macOS 快捷键 PDF
+
+「熟读并背诵全文」
+
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+
 ## VMware Fusion
 
 虚拟机
