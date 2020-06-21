@@ -10,6 +10,14 @@ http://mirrors.ustc.edu.cn/help/homebrew-cask.git.html
 brew cask upgrade --greedy
 ```
 
+## adoptopenjdk
+
+JDK
+
+```bash
+brew cask install adoptopenjdk11
+```
+
 ## Fork
 
 Git GUI 工具
