@@ -6,6 +6,10 @@
 
 阻止 Mac 睡眠
 
+## Best Trace
+
+网络路由追踪图形化工具，ipip.net 出品
+
 ## ChmPages
 
 chm 查看工具
