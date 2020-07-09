@@ -6,6 +6,12 @@
 
 https://www.macappbox.com/a/Navicat-Premium-15-for-mac.html
 
+## 黑洞
+
+在 Mac 上控制 iOS 和 Android 设备
+
+https://er.run
+
 ## 彩虹工具箱
 
 整合大量实用小工具
