@@ -4,7 +4,7 @@
 
 数据库工具
 
-https://www.macappbox.com/a/Navicat-Premium-15-for-mac.html
+https://macwk.com/soft/navicat-premium
 
 ## 黑洞
 
