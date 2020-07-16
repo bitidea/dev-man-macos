@@ -15,6 +15,10 @@ brew cask upgrade --greedy
 JDK
 
 ```bash
+brew tap AdoptOpenJDK/openjdk
+```
+
+```bash
 brew cask install adoptopenjdk11
 ```
 
