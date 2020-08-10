@@ -17,3 +17,9 @@ https://er.run
 整合大量实用小工具
 
 https://rainbowbyte.com/app/rainbowtoolbox.html
+
+## 图压
+
+本地图片压缩工具
+
+https://tuya.xinxiao.tech
