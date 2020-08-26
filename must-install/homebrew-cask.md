@@ -205,7 +205,7 @@ brew cask install c0re100-qbittorrent
 Apple Store 版进不了某些群
 
 ```bash
-brew cask install telegram-desktop
+brew cask install telegram
 ```
 
 ## Visual Studio Code
