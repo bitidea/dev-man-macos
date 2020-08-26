@@ -72,7 +72,11 @@ GAWAE-FCWQ3-P8NYB-C7GF7-NEDRT-Q5DTB-MFZG6-6NEQC-CRMUD-8MZ2K-66SRB-SU8EW-EDLZ9-TG
 brew cask install istat-menus
 ```
 
-## Intel® Power Gadget
+## Intel Power Gadget
+
+⚠️ 这个工具有可能会让你的 Mac 无限重启，在 iMac (Retina 4K, 21.5-inch, 2017) 上出现过这个问题，请慎重考虑是否安装
+
+无限重启修复方法：启动时按住 `Shift` 键，进入安全模式，使用 Intel Power Gadget 自带的 Uninstaller.pkg 完全卸载
 
 有这个工具 iState 才能监控 CPU 频率
 
