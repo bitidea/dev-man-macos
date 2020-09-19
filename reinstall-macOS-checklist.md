@@ -8,6 +8,7 @@ https://support.apple.com/zh-cn/guide/mac-help/mchlp1599/mac
 * [ ] 备份 `~/.keras`
 * [ ] 备份 `~/.kaggle`
 * [ ] 备份 `~/.ngrok2`
+* [ ] 备份 `~/.vscode/huile8-mastered-list.txt`
 * [ ] 备份 `~/Projects`
 * [ ] 备份 `~/Documents`
 * [ ] 备份 `~/Pictures`
