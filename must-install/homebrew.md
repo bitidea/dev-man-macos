@@ -41,7 +41,8 @@ brew install \
   tldr \
   tree \
   watch \
-  wget
+  wget \
+  cmake
 ```
 
 ## Python 镜像
