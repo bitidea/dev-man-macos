@@ -7,7 +7,7 @@ http://mirrors.ustc.edu.cn/help/homebrew-cask.git.html
 ## 升级所有 Cask 软件包
 
 ```bash
-brew cask upgrade --greedy
+brew upgrade --cask --greedy
 ```
 
 ## adoptopenjdk
