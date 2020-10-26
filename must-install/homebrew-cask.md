@@ -72,6 +72,16 @@ GAWAE-FCWQ3-P8NYB-C7GF7-NEDRT-Q5DTB-MFZG6-6NEQC-CRMUD-8MZ2K-66SRB-SU8EW-EDLZ9-TG
 brew cask install istat-menus
 ```
 
+## eul
+
+iStat Menus 的开源替代品，国人作者，[Apple Store Free](https://apps.apple.com/us/app/eul/id1537133867)
+
+https://github.com/gao-sun/eul
+
+```bash
+brew cask install eul
+```
+
 ## Intel Power Gadget
 
 ⚠️ 这个工具有可能会让你的 Mac 无限重启，在 iMac (Retina 4K, 21.5-inch, 2017) 上出现过这个问题，请慎重考虑是否安装
