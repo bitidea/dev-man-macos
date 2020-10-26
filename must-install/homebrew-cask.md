@@ -369,3 +369,11 @@ SQL client for MySQL, Postgres, SQLite, SQL Server, and more.
 ```bash
 brew cask install beekeeper-studio
 ```
+
+## bob
+
+翻译插件，建议[申请各大平台的免费私人 Key ](https://ripperhe.gitee.io/bob/#/general/quickstart/service?id=%e7%a7%81%e4%ba%ba%e7%a7%98%e9%92%a5)使用
+
+```bash
+brew cask install bob
+```
