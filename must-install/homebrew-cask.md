@@ -359,3 +359,13 @@ brew cask install balenaetcher
 ```bash
 brew cask install jd-gui
 ```
+
+## Beekeeper Studio
+
+SQL client for MySQL, Postgres, SQLite, SQL Server, and more.
+
+https://github.com/beekeeper-studio/beekeeper-studio
+
+```bash
+brew cask install beekeeper-studio
+```
