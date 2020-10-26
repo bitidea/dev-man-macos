@@ -44,7 +44,7 @@ brew cask install font-hack-nerd-font
 
 ## IINA
 
-播放器
+视频播放器
 
 ```bash
 brew cask install iina
@@ -64,9 +64,10 @@ brew cask install iterm
 
 系统性能监控工具
 
+```text
 982092332@qq.com
-
 GAWAE-FCWQ3-P8NYB-C7GF7-NEDRT-Q5DTB-MFZG6-6NEQC-CRMUD-8MZ2K-66SRB-SU8EW-EDLZ9-TGH3S-8SGA
+```
 
 ```bash
 brew cask install istat-menus
@@ -75,8 +76,6 @@ brew cask install istat-menus
 ## eul
 
 iStat Menus 的开源替代品，国人作者，[Apple Store Free](https://apps.apple.com/us/app/eul/id1537133867)
-
-https://github.com/gao-sun/eul
 
 ```bash
 brew cask install eul
@@ -202,7 +201,7 @@ brew cask install wireshark
 
 ## Sloth
 
-lsof GUI 工具
+`lsof` GUI 工具
 
 ```bash
 brew cask install sloth
@@ -218,7 +217,7 @@ brew cask install c0re100-qbittorrent
 
 ## Telegram
 
-Apple Store 版进不了某些群
+可能是全球最好的通讯工具
 
 ```bash
 brew cask install telegram
@@ -242,7 +241,9 @@ https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
 
 虚拟机
 
+```text
 XKZYV-PK9CC-A1Y0X-K5HZL-Y65ZV
+```
 
 ```bash
 brew cask install vmware-fusion
@@ -252,9 +253,10 @@ brew cask install vmware-fusion
 
 抓包工具
 
+```text
 https://zhile.io
-
 48891cf209c6d32bf4
+```
 
 ```bash
 brew cask install charles
@@ -280,7 +282,7 @@ brew cask install homebrew/cask-versions/firefox-developer-edition
 
 ## Google Chrome Dev
 
-Chrome 开发版
+Chrome 开发者版
 
 ```bash
 brew cask install homebrew/cask-versions/google-chrome-dev
@@ -288,7 +290,7 @@ brew cask install homebrew/cask-versions/google-chrome-dev
 
 ### 开启标签分组
 
-```bash
+```url
 chrome://flags/#tab-groups
 ```
 
@@ -338,7 +340,7 @@ brew tap v2ray/v2ray
 brew install v2ray-core
 ```
 
-### GUI
+### V2ray GUI
 
 ```bash
 brew cask install v2rayu
@@ -354,7 +356,7 @@ brew cask install balenaetcher
 
 ## jd-gui
 
-逆向工具，反编译 Jar
+逆向工具，反编译 JAR
 
 ```bash
 brew cask install jd-gui
@@ -363,8 +365,6 @@ brew cask install jd-gui
 ## Beekeeper Studio
 
 SQL client for MySQL, Postgres, SQLite, SQL Server, and more.
-
-https://github.com/beekeeper-studio/beekeeper-studio
 
 ```bash
 brew cask install beekeeper-studio
