@@ -3,5 +3,5 @@
 https://macreports.com/mac-camera-not-working-fix
 
 ```bash
-sudo killall VDCAssistant
+sudo killall AppleCameraAssistant; sudo killall VDCAssistant
 ```
