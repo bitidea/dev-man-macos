@@ -312,12 +312,12 @@ https://zhile.io/2018/08/25/jetbrains-license-server-crack.html
 brew cask install jetbrains-toolbox
 ```
 
-## Clipy
+## Maccy
 
 粘贴板增强
 
 ```bash
-brew cask install clipy
+brew install maccy
 ```
 
 ## iSlide
