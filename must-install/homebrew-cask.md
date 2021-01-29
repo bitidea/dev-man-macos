@@ -151,14 +151,6 @@ brew cask install mounty
 brew cask install mos
 ```
 
-## Notion
-
-笔记软件
-
-```bash
-brew cask install notion
-```
-
 ## OBS
 
 震惊：中国某九线城市网络聊天主播小学文凭月入百万
@@ -215,40 +207,6 @@ qBittorrent 增强版，自动 Ban 吸血 IP
 brew cask install c0re100-qbittorrent
 ```
 
-## Telegram
-
-可能是全球最好的通讯工具
-
-```bash
-brew cask install telegram
-```
-
-## Visual Studio Code
-
-开发工具
-
-```bash
-brew cask install visual-studio-code
-```
-
-### VS Code macOS 快捷键 PDF
-
-「熟读并背诵全文」
-
-https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
-
-## VMware Fusion
-
-虚拟机
-
-```text
-XKZYV-PK9CC-A1Y0X-K5HZL-Y65ZV
-```
-
-```bash
-brew cask install vmware-fusion
-```
-
 ## Charles
 
 抓包工具
@@ -260,56 +218,6 @@ https://zhile.io
 
 ```bash
 brew cask install charles
-```
-
-## Docker
-
-开发工具
-
-```bash
-brew cask install docker
-```
-
-## Firefox Developer Edition
-
-火狐开发者版
-
-https://www.mozilla.org/en-US/firefox/developer
-
-```bash
-brew cask install homebrew/cask-versions/firefox-developer-edition
-```
-
-## Google Chrome Dev
-
-Chrome 开发者版
-
-```bash
-brew cask install homebrew/cask-versions/google-chrome-dev
-```
-
-### 开启标签分组
-
-```url
-chrome://flags/#tab-groups
-```
-
-## HBuilderX
-
-开发工具
-
-```bash
-brew cask install hbuilderx
-```
-
-## JetBrains Toolbox
-
-JetBrains 全家桶
-
-https://zhile.io/2018/08/25/jetbrains-license-server-crack.html
-
-```bash
-brew cask install jetbrains-toolbox
 ```
 
 ## Maccy
@@ -338,12 +246,6 @@ brew tap v2ray/v2ray
 
 ```bash
 brew install v2ray-core
-```
-
-### V2ray GUI
-
-```bash
-brew cask install v2rayu
 ```
 
 ## balenaEtcher
