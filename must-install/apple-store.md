@@ -45,3 +45,9 @@ hosts 管理工具
 ## WireGuard
 
 Linux 5.6 内核级特性，Linus 看了都说好
+
+## Tailscale
+
+远程组网 + SSH
+
+macOS 开启 SSH 登录：https://support.apple.com/zh-cn/guide/mac-help/mchlp1066/mac
