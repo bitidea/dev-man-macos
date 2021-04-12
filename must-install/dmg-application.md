@@ -1,5 +1,11 @@
 # DMG Application
 
+## Clash X Pro
+
+https://github.com/yichengchen/clashX
+
+https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public
+
 ## Navicat Premium
 
 数据库工具
