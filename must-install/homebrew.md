@@ -7,7 +7,7 @@
 https://brew.sh
 
 ```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
 ### 🇨🇳
@@ -321,14 +321,12 @@ brew install islide
 
 ## V2ray
 
+https://github.com/Homebrew/homebrew-core/blob/master/Formula/v2ray.rb
+
 `_______，_______。`
 
 ```bash
-brew tap v2ray/v2ray
-```
-
-```bash
-brew install v2ray-core
+brew install v2ray
 ```
 
 ## balenaEtcher
