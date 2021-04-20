@@ -42,7 +42,9 @@ brew install \
   tree \
   watch \
   wget \
-  cmake
+  cmake \
+  miniserve \
+  youtube-dl
 ```
 
 ## Python 镜像
@@ -156,6 +158,16 @@ GAWAE-FCWQ3-P8NYB-C7GF7-NEDRT-Q5DTB-MFZG6-6NEQC-CRMUD-8MZ2K-66SRB-SU8EW-EDLZ9-TG
 brew install istat-menus
 ```
 
+## stats
+
+iStat Menus 开源替代
+
+https://github.com/exelban/stats
+
+```bash
+brew install stats
+```
+
 ## eul
 
 iStat Menus 的开源替代品，国人作者，[Apple Store Free](https://apps.apple.com/us/app/eul/id1537133867)
@@ -242,15 +254,7 @@ brew install mos
 brew install obs
 ```
 
-## Postman
-
-API 调试工具
-
-```bash
-brew install postman
-```
-
-## Redis Desktop Manager
+## Another Redis Desktop Manager
 
 Redis GUI 工具
 
@@ -359,4 +363,14 @@ brew install beekeeper-studio
 
 ```bash
 brew install bob
+```
+
+## wine-devel
+
+运行 Windows 程序
+
+**CLI 中使用 `wine64`**
+
+```bash
+brew install wine-devel
 ```

@@ -18,17 +18,9 @@ chm 查看工具
 
 截图工具
 
-## iRightMouse
-
-右键增强工具
-
 ## iHosts
 
 hosts 管理工具
-
-## System Designer
-
-图表工具
 
 ## TickTick
 
@@ -51,3 +43,7 @@ Linux 5.6 内核级特性，Linus 看了都说好
 远程组网 + SSH
 
 macOS 开启 SSH 登录：https://support.apple.com/zh-cn/guide/mac-help/mchlp1066/mac
+
+## Sequel Ace
+
+MySQL 客户端

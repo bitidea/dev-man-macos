@@ -18,14 +18,36 @@ https://macwk.com/soft/navicat-premium
 
 https://er.run
 
-## 彩虹工具箱
+## uTools
 
-整合大量实用小工具
+大量实用小工具
 
-https://rainbowbyte.com/app/rainbowtoolbox.html
+https://u.tools
 
 ## 图压
 
 本地图片压缩工具
 
 https://tuya.xinxiao.tech
+
+## NTFS Tool
+
+NTFS 读写工具
+
+https://ntfstool.com
+
+https://github.com/ntfstool/ntfstool
+
+## Postman
+
+API 调试工具
+
+https://www.postman.com/downloads/canary
+
+## Lightproxy
+
+抓包工具
+
+https://lightproxy.org
+
+https://github.com/alibaba/lightproxy
