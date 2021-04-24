@@ -6,6 +6,7 @@
 
 ## 目录
 
+* [macOS DoH/DoT](macOS-encrypted-dns.md)
 * 必装软件
   * [Apple Store](must-install/apple-store.md)
   * [DMG Application](must-install/dmg-application.md)
