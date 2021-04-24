@@ -13,6 +13,7 @@
   * [Homebrew Cask](must-install/homebrew-cask.md)
 * [iTerm2 配置](iterm2-config.md)
 * [Chrome DoH](chrome-doh.md)
+* [Chrome 开启多线程下载](chrome-enable-parallel-downloading.md)
 * [删除所有 .DS_Store 文件](remove-all-DS_Store.md)
 * [修复摄像头黑屏](mac-camera-not-working-fix.md)
 * [重装 macOS 前的检查清单](reinstall-macOS-checklist.md)
