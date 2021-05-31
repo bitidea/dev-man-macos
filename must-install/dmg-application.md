@@ -18,12 +18,6 @@ https://macwk.com/soft/navicat-premium
 
 https://er.run
 
-## uTools
-
-大量实用小工具
-
-https://u.tools
-
 ## 图压
 
 本地图片压缩工具
