@@ -168,14 +168,6 @@ https://github.com/exelban/stats
 brew install stats
 ```
 
-## eul
-
-iStat Menus 的开源替代品，国人作者，[Apple Store Free](https://apps.apple.com/us/app/eul/id1537133867)
-
-```bash
-brew install eul
-```
-
 ## Intel Power Gadget
 
 有这个工具 iState 才能监控 CPU 频率

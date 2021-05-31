@@ -10,10 +10,6 @@
 
 网络路由追踪图形化工具，ipip.net 出品
 
-## ChmPages
-
-chm 查看工具
-
 ## iShot
 
 截图工具
