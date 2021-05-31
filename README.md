@@ -6,6 +6,7 @@
 
 ## 目录
 
+* [Launchpad 重置](reset-launchpad.md)
 * [macOS DoH/DoT](macOS-encrypted-dns.md)
 * 必装软件
   * [Apple Store](must-install/apple-store.md)
