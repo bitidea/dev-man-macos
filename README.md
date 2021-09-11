@@ -6,19 +6,18 @@
 
 ## 目录
 
-* [Launchpad 重置](reset-launchpad.md)
 * [macOS DoH/DoT](macOS-encrypted-dns.md)
 * 必装软件
   * [Apple Store](must-install/apple-store.md)
   * [DMG Application](must-install/dmg-application.md)
   * [Homebrew](must-install/homebrew.md)
-  * [Homebrew Cask](must-install/homebrew-cask.md)
 * [iTerm2 配置](iterm2-config.md)
 * [Chrome DoH](chrome-doh.md)
 * [Chrome 开启多线程下载](chrome-enable-parallel-downloading.md)
 * [删除所有 .DS_Store 文件](remove-all-DS_Store.md)
+* [重置 Dock](reset-dock.md)
+* [重置 Launchpad](reset-launchpad.md)
 * [修复摄像头黑屏](mac-camera-not-working-fix.md)
 * [重装 macOS 前的检查清单](reinstall-macOS-checklist.md)
-* [WebStorm 风格指南](webstorm-style-guide.md)
 * 附录
   * [dotfiles 参考](https://github.com/jerryshell/dotfiles)

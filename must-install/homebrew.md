@@ -89,10 +89,10 @@ brew install ffmpeg
 
 http://mirrors.ustc.edu.cn/help/homebrew-cask.git.html
 
-## 升级所有 Cask 软件包
+## 升级所有软件包（包括 Cask）
 
 ```bash
-brew upgrade --cask --greedy
+brew upgrade --greedy
 ```
 
 ## adoptopenjdk

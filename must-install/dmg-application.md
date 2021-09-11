@@ -12,12 +12,6 @@ https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/pu
 
 https://macwk.com/soft/navicat-premium
 
-## 黑洞
-
-在 Mac 上控制 iOS 和 Android 设备
-
-https://er.run
-
 ## 图压
 
 本地图片压缩工具
