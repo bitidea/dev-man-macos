@@ -17,6 +17,7 @@
 * [删除所有 .DS_Store 文件](remove-all-DS_Store.md)
 * [重置 Dock](reset-dock.md)
 * [重置 Launchpad](reset-launchpad.md)
+* [开机启动项管理](launch.md)
 * [修复摄像头黑屏](mac-camera-not-working-fix.md)
 * [重装 macOS 前的检查清单](reinstall-macOS-checklist.md)
 * 附录
