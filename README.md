@@ -12,6 +12,7 @@
   * [DMG Application](must-install/dmg-application.md)
   * [Homebrew](must-install/homebrew.md)
 * [iTerm2 配置](iterm2-config.md)
+* [🇨🇳 安装 rustup](rustup-cn.md)
 * [Chrome DoH](chrome-doh.md)
 * [Chrome 开启多线程下载](chrome-enable-parallel-downloading.md)
 * [删除所有 .DS_Store 文件](remove-all-DS_Store.md)
