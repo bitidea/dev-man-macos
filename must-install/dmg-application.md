@@ -39,3 +39,9 @@ https://www.postman.com/downloads/canary
 https://lightproxy.org
 
 https://github.com/alibaba/lightproxy
+
+## Shottr
+
+截图工具
+
+https://shottr.cc

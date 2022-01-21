@@ -10,10 +10,6 @@
 
 网络路由追踪图形化工具，ipip.net 出品
 
-## iShot
-
-截图工具
-
 ## iHosts
 
 hosts 管理工具
