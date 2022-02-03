@@ -1,0 +1,6 @@
+[book]
+authors = ["github.com/jerryshell", "github.com/zcyc"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "Bitidea Tech 开发手册 macOS 篇"

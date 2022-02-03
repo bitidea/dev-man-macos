@@ -1,40 +1,22 @@
 # Homebrew
 
-## 安装
+[首次安装 + 镜像配置](https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/)
 
-### 🌍
-
-https://brew.sh
+## Homebrew 升级所有软件包（包括 Cask）
 
 ```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew update && brew upgrade && brew upgrade --greedy
 ```
-
-### 🇨🇳
-
-https://juejin.im/post/5c738bacf265da2deb6aaf97
-
-## 镜像
-
-http://mirrors.ustc.edu.cn/help/brew.git.html
-
-http://mirrors.ustc.edu.cn/help/homebrew-core.git.html
-
-http://mirrors.ustc.edu.cn/help/homebrew-bottles.html
 
 ## 常用命令行工具
 
 ```bash
 brew install \
   aria2 \
-  gradle \
-  maven \
   ncdu \
   netcat \
   neofetch \
   nmap \
-  node \
-  python \
   sqlite \
   tcpdump \
   telnet \
@@ -42,9 +24,7 @@ brew install \
   tree \
   watch \
   wget \
-  cmake \
-  miniserve \
-  youtube-dl
+  cmake
 ```
 
 ## Python 镜像
@@ -63,7 +43,7 @@ pip3 config set global.index-url https://pypi.douban.com/simple
 
 ## jadx
 
-Android 逆向工具，装完之后没有图标，只能在命令行运行
+Android 逆向工具，装完之后没有图标，在命令行启动
 
 ```bash
 brew install jadx
@@ -71,7 +51,7 @@ brew install jadx
 
 ## jmeter
 
-压力测试工具，装完之后没有图标，只能在命令行运行
+压力测试工具，装完之后没有图标，在命令行启动
 
 ```bash
 brew install jmeter
@@ -79,20 +59,10 @@ brew install jmeter
 
 ## ffmpeg
 
-基本使用：http://www.ruanyifeng.com/blog/2020/01/ffmpeg.html
+[基本使用教程](http://www.ruanyifeng.com/blog/2020/01/ffmpeg.html)
 
 ```bash
 brew install ffmpeg
-```
-
-## Homebrew Cask 镜像
-
-http://mirrors.ustc.edu.cn/help/homebrew-cask.git.html
-
-## 升级所有软件包（包括 Cask）
-
-```bash
-brew upgrade --greedy
 ```
 
 ## adoptopenjdk
@@ -143,44 +113,29 @@ brew install iina
 brew install iterm
 ```
 
-[点我进入「iTerm 2 配置」](../iterm2-config.md)
+[「iTerm 2 配置」传送门](../software-config/iterm2-config.md)
 
-## iStat Menus
+## iStat Menus（需要注册码）
 
 系统性能监控工具
 
-```text
-982092332@qq.com
-GAWAE-FCWQ3-P8NYB-C7GF7-NEDRT-Q5DTB-MFZG6-6NEQC-CRMUD-8MZ2K-66SRB-SU8EW-EDLZ9-TGH3S-8SGA
-```
-
 ```bash
 brew install istat-menus
-```
-
-## stats
-
-iStat Menus 开源替代
-
-https://github.com/exelban/stats
-
-```bash
-brew install stats
 ```
 
 ## Intel Power Gadget
 
 有这个工具 iState 才能监控 CPU 频率
 
+```bash
+brew install intel-power-gadget
+```
+
 ### ⚠️ 注意
 
 Intel Power Gadget 有可能会让你的 Mac **无限重启**，在 iMac (Retina 4K, 21.5-inch, 2017) 上出现过这个问题，请慎重考虑是否安装
 
 无限重启修复方法：启动时按住 `Shift` 键，进入安全模式，使用 Intel Power Gadget 自带的 `Uninstaller.pkg` 完全卸载
-
-```bash
-brew install intel-power-gadget
-```
 
 ## Kap
 
@@ -208,7 +163,7 @@ brew install ezip
 
 ## Mark Text
 
-Markdown 编辑器，Typora 终结者
+Markdown 编辑器
 
 ```bash
 brew install mark-text
@@ -254,14 +209,6 @@ Redis GUI 工具
 brew install another-redis-desktop-manager
 ```
 
-## uPic
-
-图床工具
-
-```bash
-brew install upic
-```
-
 ## Wireshark
 
 抓包工具
@@ -286,14 +233,9 @@ qBittorrent 增强版，自动 Ban 吸血 IP
 brew install c0re100-qbittorrent
 ```
 
-## Charles
+## Charles（需要注册码）
 
 抓包工具
-
-```text
-https://zhile.io
-48891cf209c6d32bf4
-```
 
 ```bash
 brew install charles
@@ -305,24 +247,6 @@ brew install charles
 
 ```bash
 brew install maccy
-```
-
-## iSlide
-
-PPT 制作工具
-
-```bash
-brew install islide
-```
-
-## V2ray
-
-https://github.com/Homebrew/homebrew-core/blob/master/Formula/v2ray.rb
-
-`_______，_______。`
-
-```bash
-brew install v2ray
 ```
 
 ## balenaEtcher
@@ -355,14 +279,4 @@ brew install beekeeper-studio
 
 ```bash
 brew install bob
-```
-
-## wine-devel
-
-运行 Windows 程序
-
-**CLI 中使用 `wine64`**
-
-```bash
-brew install wine-devel
 ```

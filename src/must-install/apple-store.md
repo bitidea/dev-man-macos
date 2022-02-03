@@ -1,6 +1,6 @@
 # Apple Store
 
-**⚠️注意：必须是美区 Apple Store**
+**⚠️ 注意：必须是美区 Apple Store**
 
 ## Amphetamine
 
@@ -34,8 +34,4 @@ Linux 5.6 内核级特性，Linus 看了都说好
 
 远程组网 + SSH
 
-macOS 开启 SSH 登录：https://support.apple.com/zh-cn/guide/mac-help/mchlp1066/mac
-
-## Sequel Ace
-
-MySQL 客户端
+[macOS 开启 SSH 登录](https://support.apple.com/zh-cn/guide/mac-help/mchlp1066/mac)
