@@ -10,3 +10,7 @@
 ## 许可证
 
 [署名—非商业性使用—禁止演绎 4.0 协议国际版](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+## mdBook Documentation
+
+[https://rust-lang.github.io/mdBook](https://rust-lang.github.io/mdBook)

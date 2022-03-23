@@ -25,6 +25,7 @@
 - [iTerm2 配置](software-config/iterm2-config.md)
 - [Chrome DoH](software-config/chrome-doh.md)
 - [Chrome 开启多线程下载](software-config/chrome-enable-parallel-downloading.md)
+- [VS Code 关闭遥测信息收集](software-config/vscode-disable-telemetry.md)
 
 # 附录
 
