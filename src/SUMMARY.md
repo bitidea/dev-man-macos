@@ -10,6 +10,7 @@
 
 # 系统配置
 
+- [Homebrew 清理无用依赖](system-config/brew-autoremove.md)
 - [DoH/DoT](system-config/encrypted-dns.md)
 - [开启 WebKit 审查元素](system-config/web-kit-developer-extras.md)
 - [删除所有 .DS_Store 文件](system-config/remove-all-dsstore.md)
