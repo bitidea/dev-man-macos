@@ -21,20 +21,6 @@ brew install \
   wget
 ```
 
-## Python 镜像
-
-### 升级 pip 到最新版
-
-```bash
-pip3 install --upgrade pip -i https://pypi.douban.com/simple
-```
-
-### 设置镜像
-
-```bash
-pip3 config set global.index-url https://pypi.douban.com/simple
-```
-
 ## jadx
 
 Android 逆向工具，装完之后没有图标，在命令行启动
