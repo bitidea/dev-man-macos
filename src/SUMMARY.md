@@ -10,6 +10,7 @@
 
 # 系统配置
 
+- [Homebrew 升级所有软件包](system-config/brew-upgrade.md)
 - [Homebrew 清理无用依赖](system-config/brew-autoremove.md)
 - [DoH/DoT](system-config/encrypted-dns.md)
 - [开启 WebKit 审查元素](system-config/web-kit-developer-extras.md)

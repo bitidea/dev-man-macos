@@ -2,20 +2,15 @@
 
 [首次安装 + 镜像配置](https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/)
 
-## Homebrew 升级所有软件包（包括 Cask）
-
-```bash
-brew update && brew upgrade && brew upgrade --greedy
-```
-
 ## 常用命令行工具
 
 ```bash
 brew install \
   aria2 \
+  cmake \
+  dog \
   ncdu \
   netcat \
-  neofetch \
   nmap \
   sqlite \
   tcpdump \
@@ -23,8 +18,7 @@ brew install \
   tldr \
   tree \
   watch \
-  wget \
-  cmake
+  wget
 ```
 
 ## Python 镜像
