@@ -1,8 +1,10 @@
 # NPM Binary Mirror
 
 ## 使用方式
+
 添加到 `.bashrc` 或 `.zshrc` 中 
-``` bash
+
+```bash
 # === NPM BINRAY CHINA ===
 # https://github.com/cnpm/binary-mirror-config/blob/master/package.json#L48
 export NODEJS_ORG_MIRROR="https://cdn.npmmirror.com/binaries/node"
@@ -22,5 +24,7 @@ export npm_config_sharp_binary_host="https://cdn.npmmirror.com/binaries/sharp"
 export npm_config_sharp_libvips_binary_host="https://cdn.npmmirror.com/binaries/sharp-libvips"
 export npm_config_robotjs_binary_host="https://cdn.npmmirror.com/binaries/robotj"
 ```
+
 ## 数据来源
+
 [binary-mirror-config](https://github.com/cnpm/binary-mirror-config)
