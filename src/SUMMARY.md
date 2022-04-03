@@ -12,8 +12,8 @@
 
 - [Homebrew 升级所有软件包](system-config/brew-upgrade.md)
 - [Homebrew 清理无用依赖](system-config/brew-autoremove.md)
-- [Python 镜像配置](system-config/npm-binary-mirror.md)
-- [NPM Binary 镜像配置](system-config/python-mirror.m)
+- [Python 镜像配置](system-config/python-mirror.md)
+- [NPM Binary 镜像配置](system-config/npm-binary-mirror.md)
 - [DoH/DoT](system-config/encrypted-dns.md)
 - [开启 WebKit 审查元素](system-config/web-kit-developer-extras.md)
 - [删除所有 .DS_Store 文件](system-config/remove-all-dsstore.md)
