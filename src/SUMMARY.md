@@ -10,6 +10,7 @@
 
 # 系统配置
 
+- [异常耗电日志排查](system-config/pmset-log.md)
 - [Homebrew 升级所有软件包](system-config/brew-upgrade.md)
 - [Homebrew 清理无用依赖](system-config/brew-autoremove.md)
 - [Python 镜像配置](system-config/python-mirror.md)
