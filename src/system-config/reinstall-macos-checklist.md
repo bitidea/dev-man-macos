@@ -15,5 +15,6 @@
 - [ ] 备份 `~/Movies`
 - [ ] 备份 `~/Music`
 - [ ] 备份 `~/Public`
+- [ ] 备份 `Bob 配置文件` 偏好设置-通用-导入导出
 - [ ] 更新 [https://github.com/jerryshell/dotfiles](https://github.com/jerryshell/dotfiles)
 - [ ] 检查 `/Applications` 和 `brew list` 将新项目更新到 [Must Install](../must-install/homebrew.md) 中
