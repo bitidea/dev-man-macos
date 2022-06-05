@@ -35,3 +35,7 @@ Linux 5.6 内核级特性，Linus 看了都说好
 远程组网 + SSH
 
 [macOS 开启 SSH 登录](https://support.apple.com/zh-cn/guide/mac-help/mchlp1066/mac)
+
+## EasyRes
+
+EasyRes 是一款适用于 Mac OS X 的快速屏幕分辨率切换器，具有实时动画预览。
