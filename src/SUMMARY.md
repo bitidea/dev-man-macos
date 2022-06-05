@@ -10,6 +10,7 @@
 
 # 系统配置
 
+- [系统首选项调整](system-config/system-preferences.md)
 - [清除 DNS 缓存](system-config/flush-dns.md)
 - [异常耗电日志排查](system-config/pmset-log.md)
 - [Homebrew 升级所有软件包](system-config/brew-upgrade.md)
