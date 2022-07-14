@@ -260,3 +260,13 @@ brew install beekeeper-studio
 ```bash
 brew install bob
 ```
+
+## SwitchHosts
+
+Switch hosts quickly!
+
+https://github.com/oldj/SwitchHosts
+
+```bash
+brew install switchhosts
+```

@@ -10,10 +10,6 @@
 
 网络路由追踪图形化工具，ipip.net 出品
 
-## iHosts
-
-hosts 管理工具
-
 ## TickTick
 
 滴答清单
