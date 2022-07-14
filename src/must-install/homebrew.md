@@ -85,12 +85,12 @@ brew install font-hack-nerd-font
 brew install iina
 ```
 
-## iTerm
+## iTerm2
 
 替代掉系统自带的 Terminal
 
 ```bash
-brew install iterm
+brew install iterm2
 ```
 
 [「iTerm 2 配置」传送门](../software-config/iterm2-config.md)
