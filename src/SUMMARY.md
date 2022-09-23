@@ -26,6 +26,7 @@
 - [修复摄像头黑屏](system-config/fix-camera-not-working.md)
 - [重装 macOS 前的检查清单](system-config/reinstall-macos-checklist.md)
 - [macOS 环境变量](system-config/environment-variables.md)
+- [修复声音卡顿问题](system-config/fix-audio.md)
 
 # 软件配置
 
