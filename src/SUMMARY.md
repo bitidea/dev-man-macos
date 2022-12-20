@@ -10,6 +10,7 @@
 
 # 系统配置
 
+- [使用 Touch ID 认证 sudo](system-config/touch-id-sudo.md)
 - [系统首选项调整](system-config/system-preferences.md)
 - [清除 DNS 缓存](system-config/flush-dns.md)
 - [异常耗电日志排查](system-config/pmset-log.md)
