@@ -7,6 +7,7 @@
 - [Apple Store](must-install/apple-store.md)
 - [DMG Application](must-install/dmg-application.md)
 - [Homebrew](must-install/homebrew.md)
+- [Rust cargo](must-install/rust-cargo.md)
 
 # 系统配置
 
