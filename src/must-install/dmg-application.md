@@ -10,7 +10,7 @@
 
 数据库工具
 
-[macwk](https://macwk.com/soft/navicat-premium)
+[macapp.org.cn](https://macapp.org.cn/app/navicat-premium.html)
 
 ## 图压
 
