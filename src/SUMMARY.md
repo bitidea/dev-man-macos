@@ -13,6 +13,7 @@
 
 - [使用 Touch ID 认证 sudo](system-config/touch-id-sudo.md)
 - [系统首选项调整](system-config/system-preferences.md)
+- [TinkerTool·系统深度设置维护工具，帮助修改一些系统隐藏的属性](system-config/tinker-tool.md)
 - [清除 DNS 缓存](system-config/flush-dns.md)
 - [异常耗电日志排查](system-config/pmset-log.md)
 - [Homebrew 升级所有软件包](system-config/brew-upgrade.md)
