@@ -38,7 +38,8 @@
 - [iTerm2 配置](software-config/iterm2-config.md)
 - [Chrome DoH](software-config/chrome-doh.md)
 - [Chrome 开启多线程下载](software-config/chrome-enable-parallel-downloading.md)
-- [VS Code 关闭遥测信息收集](software-config/vscode-disable-telemetry.md)
+- [VSCode 关闭遥测信息收集](software-config/vscode-disable-telemetry.md)
+- [解决 VSCode 安装 Vim 插件后长按按键无法移动光标的问题](software-config/vscode-vim.md)
 - [修改 OpenTTD 的中文字体](software-config/openttd-font.md)
 - [Audacity 卡顿修复](software-config/audacity-lag-fix.md)
 
