@@ -31,6 +31,8 @@
 - [macOS 环境变量](system-config/environment-variables.md)
 - [修复声音卡顿问题](system-config/fix-audio.md)
 - [修复天气组件黑屏](system-config/fix-weather-widget-black-screen.md)
+- [将大小写锁定键映射为 ESC 键](system-config/remaping-capslock-to-escape.md)
+- [将 <Control + Space> 修改为 <Command + x>](system-config/control-space-to-command-x.md)
 
 # 软件配置
 
