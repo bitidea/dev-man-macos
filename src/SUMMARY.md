@@ -38,6 +38,7 @@
 
 - [🇨🇳 安装 rustup](software-config/rustup-cn.md)
 - [iTerm2 配置](software-config/iterm2-config.md)
+- [在 iTerm2 将 <Command + s> 修改为 <Control + s>](software-config/command-s-to-control-s.md)
 - [Chrome DoH](software-config/chrome-doh.md)
 - [Chrome 开启多线程下载](software-config/chrome-enable-parallel-downloading.md)
 - [VSCode 关闭遥测信息收集](software-config/vscode-disable-telemetry.md)
