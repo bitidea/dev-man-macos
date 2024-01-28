@@ -45,6 +45,7 @@
 - [解决 VSCode 安装 Vim 插件后长按按键无法移动光标的问题](software-config/vscode-vim.md)
 - [修改 OpenTTD 的中文字体](software-config/openttd-font.md)
 - [Audacity 卡顿修复](software-config/audacity-lag-fix.md)
+- [Chrome 开启网页内容自动深色模式](software-config/chrome-enable-force-dark.md)
 
 # 附录
 
