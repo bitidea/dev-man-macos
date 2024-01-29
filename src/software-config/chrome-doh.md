@@ -6,10 +6,6 @@
 chrome://flags/#dns-over-https
 ```
 
-```text
-Enable
-```
-
 ## Chrome 83 之后（包括 83）
 
 ```text
