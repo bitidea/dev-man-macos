@@ -47,6 +47,10 @@
 - [Audacity 卡顿修复](software-config/audacity-lag-fix.md)
 - [Chrome 开启网页内容自动深色模式](software-config/chrome-enable-force-dark.md)
 
+# 开发技巧
+
+- [本地预览前端打包产物](development-skill/dist-preview.md)
+
 # 附录
 
 - [附录](appendix/README.md)
