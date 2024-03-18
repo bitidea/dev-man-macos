@@ -9,3 +9,14 @@ npx http-server
 ```
 docker run --rm -p 80:80 -v dist:/usr/share/nginx/html nginx
 ```
+
+miniserve
+# miniserve
+## 安装
+```
+brew install miniserve
+```
+## 启动
+```
+miniserve --spa --index index.html
+```
