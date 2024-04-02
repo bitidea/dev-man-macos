@@ -1,5 +1,5 @@
 # http-server
-进入前端 build 产物路径，如 dist，然后执行以下命令
+进入前端 build 产物路径，如 dist，执行以下命令
 ```
 npx http-server
 ```
@@ -9,14 +9,13 @@ npx http-server
 ```
 docker run --rm -p 80:80 -v dist:/usr/share/nginx/html nginx
 ```
-
-miniserve
 # miniserve
 ## 安装
 ```
 brew install miniserve
 ```
 ## 启动
+进入前端 build 产物路径，如 dist，执行以下命令
 ```
 miniserve --spa --index index.html
 ```
