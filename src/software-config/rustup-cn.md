@@ -19,14 +19,7 @@ vim ~/.cargo/config
 
 ```toml
 [source.crates-io]
-replace-with = 'rsproxy'
-
-[source.rsproxy]
-registry = "https://rsproxy.cn/crates.io-index"
-
-[registries.rsproxy]
-index = "https://rsproxy.cn/crates.io-index"
-
+registry = "sparse+https://rsproxy.cn/index/"
 [net]
 git-fetch-with-cli = true
 ```
