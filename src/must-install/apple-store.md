@@ -6,14 +6,6 @@
 
 阻止 Mac 睡眠
 
-## Best Trace
-
-网络路由追踪图形化工具，ipip.net 出品
-
-## TickTick
-
-滴答清单
-
 ## Xcode
 
 一些工具的编译依赖

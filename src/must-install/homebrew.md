@@ -8,12 +8,8 @@
 brew install \
   aria2 \
   cmake \
-  dog \
   ncdu \
-  netcat \
-  nmap \
   sqlite \
-  tcpdump \
   telnet \
   tldr \
   tree \
@@ -117,36 +113,12 @@ Intel Power Gadget 有可能会让你的 Mac **无限重启**，在 iMac (Retina
 
 无限重启修复方法：启动时按住 `Shift` 键，进入安全模式，使用 Intel Power Gadget 自带的 `Uninstaller.pkg` 完全卸载
 
-## Kap
-
-录屏工具
-
-```bash
-brew install kap
-```
-
 ## Keka
 
 解压工具
 
 ```bash
 brew install keka
-```
-
-## eZip
-
-Keka 不能编辑压缩文件，eZip 可以
-
-```bash
-brew install ezip
-```
-
-## Mark Text
-
-Markdown 编辑器
-
-```bash
-brew install mark-text
 ```
 
 ## Motrix
@@ -175,7 +147,7 @@ brew install mos
 
 ## OBS
 
-震惊：中国某九线城市网络聊天主播小学文凭月入百万
+推流 & 录屏工具
 
 ```bash
 brew install obs
@@ -251,14 +223,6 @@ SQL client for MySQL, Postgres, SQLite, SQL Server, and more.
 
 ```bash
 brew install beekeeper-studio
-```
-
-## bob
-
-翻译插件，建议[申请各大平台的免费私人 Key ](https://ripperhe.gitee.io/bob/#/general/quickstart/service?id=%e7%a7%81%e4%ba%ba%e7%a7%98%e9%92%a5)使用
-
-```bash
-brew install bob
 ```
 
 ## SwitchHosts
