@@ -1,6 +1,6 @@
 # 清除 DNS 缓存
 
-[https://www.freecodecamp.org/news/how-to-flush-dns-on-mac-macos-clear-dns-cache](https://www.freecodecamp.org/news/how-to-flush-dns-on-mac-macos-clear-dns-cache)
+[How to Flush DNS on Mac – MacOS Clear DNS Cache](https://www.freecodecamp.org/news/how-to-flush-dns-on-mac-macos-clear-dns-cache)
 
 | MACOS VERSION                | COMMAND                                                         |
 | ---------------------------- | --------------------------------------------------------------- |

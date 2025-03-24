@@ -50,7 +50,7 @@ export PATH="${PATH}:你的新目录"
 source ~/.zshrc
 ```
 
-# 常见的配置文件
+## 常见的配置文件
 
 - /etc/paths (全局建议修改这个文件)
 

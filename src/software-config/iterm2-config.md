@@ -10,4 +10,4 @@
 
 ## Oh My Zsh 配置参考
 
-[https://github.com/jerryshell/dotfiles/blob/master/.zshrc](https://github.com/jerryshell/dotfiles/blob/master/.zshrc)
+[github.com/jerryshell/dotfiles/blob/master/.zshrc](https://github.com/jerryshell/dotfiles/blob/master/.zshrc)

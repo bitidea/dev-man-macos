@@ -1,6 +1,6 @@
 # Homebrew
 
-[首次安装 + 镜像配置](https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/)
+[首次安装 + 镜像配置](https://mirrors.ustc.edu.cn/help/brew.git.html)
 
 ## 常用命令行工具
 
@@ -119,14 +119,6 @@ Intel Power Gadget 有可能会让你的 Mac **无限重启**，在 iMac (Retina
 
 ```bash
 brew install keka
-```
-
-## Motrix
-
-下载工具，支持磁力
-
-```bash
-brew install motrix
 ```
 
 ## Mounty

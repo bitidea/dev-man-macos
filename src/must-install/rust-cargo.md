@@ -1,6 +1,6 @@
 # Rust cargo
 
-[https://gist.github.com/sts10/daadbc2f403bdffad1b6d33aff016c0a](https://gist.github.com/sts10/daadbc2f403bdffad1b6d33aff016c0a)
+[A curated list of command-line utilities written in Rust](https://gist.github.com/sts10/daadbc2f403bdffad1b6d33aff016c0a)
 
 ## topgrade-rs/topgrade
 
@@ -12,12 +12,6 @@
 
 ```bash
 cargo install topgrade
-```
-
-### 用法
-
-```bash
-topgrade
 ```
 
 ## y2z/monolith

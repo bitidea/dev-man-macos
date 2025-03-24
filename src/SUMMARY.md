@@ -16,7 +16,6 @@
 - [TinkerTool·系统深度设置维护工具，帮助修改一些系统隐藏的属性](system-config/tinker-tool.md)
 - [清除 DNS 缓存](system-config/flush-dns.md)
 - [异常耗电日志排查](system-config/pmset-log.md)
-- [Homebrew 升级所有软件包](system-config/brew-upgrade.md)
 - [Homebrew 清理无用依赖](system-config/brew-autoremove.md)
 - [Python 镜像配置](system-config/python-mirror.md)
 - [NPM Binary 镜像配置](system-config/npm-binary-mirror.md)
