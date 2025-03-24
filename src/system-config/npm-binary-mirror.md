@@ -2,7 +2,7 @@
 
 ## 使用方式
 
-添加到 `.bashrc` 或 `.zshrc` 中 
+添加到 `.bashrc` 或 `.zshrc` 中
 
 ```bash
 # === NPM BINRAY CHINA ===
