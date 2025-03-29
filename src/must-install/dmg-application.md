@@ -10,17 +10,6 @@ API 调试工具
 
 [官网](https://www.postman.com/downloads/canary)
 
-## Lightproxy
-
-抓包工具
-
-[GitHub](https://github.com/alibaba/lightproxy)
-
-## Shottr
-
-截图工具
-
-[官网](https://shottr.cc)
 
 ## OpenTrace
 
