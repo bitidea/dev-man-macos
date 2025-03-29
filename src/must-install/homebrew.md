@@ -24,8 +24,9 @@ brew install go
 brew install --cask zulu@21
 ```
 
-## CLI
+## 命令行工具
 
+### 常用
 ```bash
 brew install \
   aria2 \
@@ -36,22 +37,31 @@ brew install \
   tldr \
   tree \
   watch \
-  wget \
-  topgrade \
-  ffmpeg \
-  mitmproxy
+  wget
 ```
 
-## GUI
+### topgrade
+一键更新开发环境
+```
+brew install topgrade
+```
+
+### ffmpeg
+视频处理
+```
+brew install ffmpeg
+```
+
+## 常用软件
 ### Shottr
-截图工具
+截图
 ```
 brew install --cask shottr
 ```
 
 ### Fork
 
-Git GUI 工具
+Git GUI
 
 ```bash
 brew install fork
@@ -66,14 +76,14 @@ brew install iina
 ```
 
 ### Easydict
-翻译工具，替代 Bob
+翻译
 ```
 brew install --cask easydict
 ```
 
 ### iStat Menus（需要注册码）
 
-系统性能监控工具
+系统性能监控
 
 ```bash
 brew install istat-menus
@@ -91,7 +101,7 @@ brew install intel-power-gadget
 
 ### OBS
 
-推流 & 录屏工具
+推流 & 录屏
 
 ```bash
 brew install obs
@@ -107,7 +117,7 @@ brew install c0re100-qbittorrent
 
 ### balenaEtcher
 
-镜像烧录工具
+镜像烧录
 
 ```bash
 brew install balenaetcher
@@ -116,7 +126,7 @@ brew install balenaetcher
 ## 数据库管理
 ### Another Redis Desktop Manager
 
-Redis GUI 工具
+Redis
 
 ```bash
 brew install another-redis-desktop-manager
@@ -124,7 +134,7 @@ brew install another-redis-desktop-manager
 
 ### Beekeeper Studio
 
-SQL client for MySQL, Postgres, SQLite, SQL Server, and more.
+MySQL, Postgres, SQLite, SQL Server
 
 ```bash
 brew install beekeeper-studio
@@ -139,7 +149,7 @@ brew install pearcleaner
 
 ### Mos
 
-鼠标行为调教工具
+鼠标行为调教
 
 ```bash
 brew install mos
@@ -155,7 +165,7 @@ brew install maccy
 
 ### Keka
 
-解压工具
+解压
 
 ```bash
 brew install keka
@@ -163,7 +173,7 @@ brew install keka
 
 ### Mounty
 
-NTFS 读写工具
+NTFS 读写
 
 ```bash
 brew install mounty
@@ -171,7 +181,7 @@ brew install mounty
 
 ### Sloth
 
-`lsof` GUI 工具
+`lsof` GUI 
 
 ```bash
 brew install sloth
@@ -204,7 +214,7 @@ brew install --cask openinterminal
 ### mitmproxy
 
 ```
-brew install --cask mitmproxy
+brew install mitmproxy
 ```
 
 ### whistle
@@ -227,7 +237,7 @@ brew install wireshark
 
 ### jmeter
 
-压力测试工具，装完之后没有图标，在命令行启动
+压力测试，装完之后没有图标，在命令行启动
 
 ```bash
 brew install jmeter
@@ -236,7 +246,7 @@ brew install jmeter
 ## 逆向
 ### jd-gui
 
-逆向工具，反编译 JAR
+逆向，反编译 JAR
 
 ```bash
 brew install jd-gui
@@ -244,7 +254,7 @@ brew install jd-gui
 
 ### jadx
 
-Android 逆向工具，装完之后没有图标，在命令行启动
+Android 逆向，装完之后没有图标，在命令行启动
 
 ```bash
 brew install jadx
