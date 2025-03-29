@@ -145,7 +145,7 @@ brew install beekeeper-studio
 老牌工具
 
 ```bash
-brew install beekeeper-studio
+brew install --cask dbeaver-community
 ```
 
 ## 系统增强
