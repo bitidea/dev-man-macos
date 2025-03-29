@@ -193,6 +193,12 @@ brew install iterm2
 brew install switchhosts
 ```
 
+### Open In Termina
+鼠标右键在此处打开控制台
+```
+brew install --cask openinterminal
+```
+
 
 ## 调试
 ### mitmproxy
