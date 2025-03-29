@@ -140,6 +140,14 @@ MySQL, Postgres, SQLite, SQL Server
 brew install beekeeper-studio
 ```
 
+### DBeaver
+
+老牌工具
+
+```bash
+brew install beekeeper-studio
+```
+
 ## 系统增强
 ### Pearcleaner
 卸载清理
