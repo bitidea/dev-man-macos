@@ -33,6 +33,7 @@
 - [将大小写锁定键映射为 ESC 键](system-config/remaping-capslock-to-escape.md)
 - [将 <Control + Space> 修改为 <Command + x>](system-config/control-space-to-command-x.md)
 - [修复 npm 证书问题](system-config/fix-npm-cert-error.md)
+- [Topgrade 更新开发环境](system-config/topgrade.md)
 
 # 软件配置
 
@@ -49,7 +50,8 @@
 
 # 开发技巧
 
-- [本地预览前端打包产物](development-skill/dist-preview.md)
+- [使用内网穿透调试本地接口](development-skill/devtunnel.md)
+- [本地启动静态文件服务器](development-skill/local-file-server.md)
 
 # 附录
 
