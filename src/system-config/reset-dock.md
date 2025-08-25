@@ -1,6 +1,5 @@
 # 重置 Dock
 
 ```bash
-rm ~/Library/Application\ Support/Dock/*.db && killall Dock
-defaults write com.apple.dock ResetLaunchPad -bool true && killall Dock
+defaults delete com.apple.dock; killall Dock
 ```
