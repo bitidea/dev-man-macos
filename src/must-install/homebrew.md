@@ -3,23 +3,27 @@
 [首次安装 + 镜像配置](https://mirrors.ustc.edu.cn/help/brew.git.html)
 
 ## macOS 基础
-```
+
+```bash
 xcode-select --install
 ```
 
 ## 语言环境
 
 ### Rust
+
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
 ### Go
-```
+
+```bash
 brew install go
 ```
 
 ### Java
+
 ```bash
 brew install --cask zulu@21
 ```
@@ -27,6 +31,7 @@ brew install --cask zulu@21
 ## 命令行工具
 
 ### 常用
+
 ```bash
 brew install \
   aria2 \
@@ -41,21 +46,28 @@ brew install \
 ```
 
 ### topgrade
+
 一键更新开发环境
-```
+
+```bash
 brew install topgrade
 ```
 
 ### ffmpeg
+
 视频处理
-```
+
+```bash
 brew install ffmpeg
 ```
 
 ## 常用软件
+
 ### Shottr
+
 截图
-```
+
+```bash
 brew install --cask shottr
 ```
 
@@ -76,8 +88,10 @@ brew install iina
 ```
 
 ### Easydict
+
 翻译
-```
+
+```bash
 brew install --cask easydict
 ```
 
@@ -124,6 +138,7 @@ brew install balenaetcher
 ```
 
 ## 数据库管理
+
 ### Another Redis Desktop Manager
 
 Redis
@@ -149,9 +164,12 @@ brew install --cask dbeaver-community
 ```
 
 ## 系统增强
+
 ### Pearcleaner
+
 卸载清理
-```
+
+```bash
 brew install pearcleaner
 ```
 
@@ -189,7 +207,7 @@ brew install mounty
 
 ### Sloth
 
-`lsof` GUI 
+`lsof` GUI
 
 ```bash
 brew install sloth
@@ -212,22 +230,24 @@ brew install switchhosts
 ```
 
 ### Open In Termina
+
 鼠标右键在此处打开控制台
-```
+
+```bash
 brew install --cask openinterminal
 ```
 
-
 ## 调试
+
 ### mitmproxy
 
-```
+```bash
 brew install mitmproxy
 ```
 
 ### whistle
 
-```
+```bash
 brew install whistle
 ```
 
@@ -252,6 +272,7 @@ brew install jmeter
 ```
 
 ## 逆向
+
 ### jd-gui
 
 逆向，反编译 JAR
@@ -268,8 +289,8 @@ Android 逆向，装完之后没有图标，在命令行启动
 brew install jadx
 ```
 
-
 ## 字体
+
 ### Hack Nerd Font
 
 终端唯一指定字体
@@ -281,7 +302,6 @@ brew tap homebrew/cask-fonts
 ```bash
 brew install font-hack-nerd-font
 ```
-
 
 ## 相关文章
 

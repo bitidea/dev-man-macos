@@ -102,7 +102,7 @@ tips: 需要需要重启才会生效, /etc/profile 对所有用户生效, ~/.zsh
 
 .netrc 示例
 
-```
+```config
 machine github.com
 login charles
 password password

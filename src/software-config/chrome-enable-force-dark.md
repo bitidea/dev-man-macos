@@ -2,6 +2,6 @@
 
 选择 Enabled with selective inversion of non-image elements
 
-```text
+```url
 chrome://flags/#enable-force-dark
 ```
