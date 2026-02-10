@@ -10,22 +10,40 @@ xcode-select --install
 
 ## 语言环境
 
-### Rust
+### 安装 mise
 
 ```bash
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+curl https://mise.run | sh
 ```
 
-### Go
+### 安装 Rust
 
 ```bash
-brew install go
+mise use -g rust
 ```
 
-### Java
+### 安装 Go
 
 ```bash
-brew install --cask zulu@21
+mise use -g go
+```
+
+### 安装 Java
+
+```bash
+mise use -g java@temurin-25
+```
+
+### 安装 Python
+
+```bash
+mise use -g python@3.14
+```
+
+### 安装 Node
+
+```bash
+mise use -g node@24
 ```
 
 ## 命令行工具
@@ -51,6 +69,7 @@ brew install \
 
 ```bash
 brew install topgrade
+topgrade -y -c --no-retry --disable system
 ```
 
 ### ffmpeg
@@ -147,22 +166,6 @@ Redis
 brew install another-redis-desktop-manager
 ```
 
-### Beekeeper Studio
-
-MySQL, Postgres, SQLite, SQL Server
-
-```bash
-brew install beekeeper-studio
-```
-
-### DBeaver
-
-老牌工具
-
-```bash
-brew install --cask dbeaver-community
-```
-
 ## 系统增强
 
 ### Pearcleaner
@@ -213,12 +216,12 @@ brew install mounty
 brew install sloth
 ```
 
-### iTerm2
+### Ghostty
 
-替代掉系统自带的 Terminal
+新一代 Terminal
 
 ```bash
-brew install iterm2
+brew install --cask ghostty
 ```
 
 ### SwitchHosts
