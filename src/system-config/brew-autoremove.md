@@ -1,5 +1,5 @@
-# Homebrew 清理无用依赖
+# Homebrew 升级所有 + 清理无用依赖
 
 ```bash
-brew autoremove && brew cleanup
+brew update && brew upgrade -y && brew upgrade --greedy && brew autoremove && brew cleanup
 ```
